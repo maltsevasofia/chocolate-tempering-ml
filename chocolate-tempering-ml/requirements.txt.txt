@@ -1,7 +1,0 @@
-torch
-pandas
-numpy
-scikit-learn
-matplotlib
-python-telegram-bot
-joblib
