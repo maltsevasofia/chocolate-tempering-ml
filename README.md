@@ -27,7 +27,8 @@ ML-продукт для кондитерского производства, п
 - python-telegram-bot
 
 ## Пример работы
-(здесь добавь скриншот работы бота)
+<img width="846" height="709" alt="image" src="https://github.com/user-attachments/assets/a77424e3-1dcc-4fb9-8965-c5a6046d0229" />
+
 
 ## Запуск проекта
 1. Установи зависимости: `pip install -r requirements.txt`
